@@ -1,4 +1,4 @@
-# criando um coonente de código
+# Criando um componente de código
 
 ![_C__Users_Uriel%20Donisete_Documents_qr-code-component_index html](https://user-images.githubusercontent.com/111095992/203677886-57d25be6-d8eb-4729-b2bd-264220cc95d3.png)
 
