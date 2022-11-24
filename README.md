@@ -12,5 +12,5 @@
  
  Abaixo está o link onde encontrarão os materiais necessários antes de dar início a construção e lá vocês podem enviar uma solução apresentando o projeto e serem desafiados ao avançarem as propostas.
  Recomendo muito para quem já tenha conhecimentos mesmo básicos na área e deseja se tornar um profissional completo.
- 
- https://www.frontendmentor.io/
+
+https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-z_sr3Y2O44
